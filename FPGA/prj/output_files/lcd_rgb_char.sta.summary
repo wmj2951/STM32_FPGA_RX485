@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'seg_led_top:u_seg_led_top|seg_led:u_seg_led|dri_clk'
+Slack : -14.160
+TNS   : -187.588
+
+Type  : Slow 1200mV 85C Model Setup 'sys_clk'
+Slack : -10.034
+TNS   : -2364.181
+
+Type  : Slow 1200mV 85C Model Hold 'sys_clk'
+Slack : -0.483
+TNS   : -2.577
+
+Type  : Slow 1200mV 85C Model Hold 'seg_led_top:u_seg_led_top|seg_led:u_seg_led|dri_clk'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'sys_clk'
+Slack : -3.201
+TNS   : -877.435
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'seg_led_top:u_seg_led_top|seg_led:u_seg_led|dri_clk'
+Slack : -1.487
+TNS   : -68.402
+
+Type  : Slow 1200mV 0C Model Setup 'seg_led_top:u_seg_led_top|seg_led:u_seg_led|dri_clk'
+Slack : -12.933
+TNS   : -170.634
+
+Type  : Slow 1200mV 0C Model Setup 'sys_clk'
+Slack : -9.419
+TNS   : -2156.335
+
+Type  : Slow 1200mV 0C Model Hold 'sys_clk'
+Slack : -0.492
+TNS   : -3.640
+
+Type  : Slow 1200mV 0C Model Hold 'seg_led_top:u_seg_led_top|seg_led:u_seg_led|dri_clk'
+Slack : 0.404
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : -3.201
+TNS   : -877.435
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'seg_led_top:u_seg_led_top|seg_led:u_seg_led|dri_clk'
+Slack : -1.487
+TNS   : -68.402
+
+Type  : Fast 1200mV 0C Model Setup 'seg_led_top:u_seg_led_top|seg_led:u_seg_led|dri_clk'
+Slack : -5.689
+TNS   : -59.302
+
+Type  : Fast 1200mV 0C Model Setup 'sys_clk'
+Slack : -3.861
+TNS   : -716.733
+
+Type  : Fast 1200mV 0C Model Hold 'sys_clk'
+Slack : -0.197
+TNS   : -1.229
+
+Type  : Fast 1200mV 0C Model Hold 'seg_led_top:u_seg_led_top|seg_led:u_seg_led|dri_clk'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : -3.000
+TNS   : -762.577
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'seg_led_top:u_seg_led_top|seg_led:u_seg_led|dri_clk'
+Slack : -1.000
+TNS   : -46.000
+
+------------------------------------------------------------

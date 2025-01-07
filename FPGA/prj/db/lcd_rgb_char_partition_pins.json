@@ -1,0 +1,181 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "led[0]",
+					"strict" : false
+				},
+				{
+					"name" : "led[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led[2]",
+					"strict" : false
+				},
+				{
+					"name" : "led[3]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_de",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_clk",
+					"strict" : false
+				},
+				{
+					"name" : "rs485_uart_txd",
+					"strict" : false
+				},
+				{
+					"name" : "seg_sel[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_sel[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_sel[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_sel[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_sel[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_sel[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_led[6]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[0]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[1]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[2]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[3]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[4]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[5]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[6]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[7]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[8]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[9]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[10]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[11]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[12]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[13]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[14]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[15]",
+					"strict" : false
+				},
+				{
+					"name" : "sys_clk",
+					"strict" : false
+				},
+				{
+					"name" : "sys_rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "key[0]",
+					"strict" : false
+				},
+				{
+					"name" : "key[2]",
+					"strict" : false
+				},
+				{
+					"name" : "key[1]",
+					"strict" : false
+				},
+				{
+					"name" : "key[3]",
+					"strict" : false
+				},
+				{
+					"name" : "rs485_uart_rxd",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
